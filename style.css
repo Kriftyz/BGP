@@ -1,0 +1,16 @@
+body {
+    background: black;
+    color: white;
+    padding: 25px;
+    font-family: cursive;
+  }
+  td {
+    border: solid;
+    border-color: red;
+  }
+  a {
+    color: lightblue;
+  }
+  a:visited {
+    color: #CBC3E3;
+  }
