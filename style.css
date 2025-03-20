@@ -17,4 +17,5 @@ body {
 
 .argument_terminology {
     background-color: white;
+    display: inline-block;
 }
