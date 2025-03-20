@@ -14,3 +14,7 @@ body {
   a:visited {
     color: #CBC3E3;
   }
+
+.arguement.terminology {
+    background-color: white;
+}
